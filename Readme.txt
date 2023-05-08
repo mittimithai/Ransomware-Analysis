@@ -30,6 +30,5 @@ Ram : 32gb
 Processor: 2 cores
 Storage : 50gb
 
-Note: To change the settings of any vm, first make the desired changes then delete the current snapshot and take a new snapshot with 
-same name.
+Note: To change the settings of any vm, first make the desired changes then delete the current snapshot and take a new snapshot with same name.
 
