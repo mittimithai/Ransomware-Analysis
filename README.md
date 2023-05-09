@@ -35,7 +35,7 @@ host and spadeVm. The script then runs bash script file_ops.sh within the spadeV
 calculate the file operations done by the ransomware.
 
 # csv_populate.py
-#This script extracts the maximum density changed from densities, number of new files, and file operations
+This script extracts the maximum density changed from densities, number of new files, and file operations
 of a ransomware and add that data to the summary.csv file
 
 
